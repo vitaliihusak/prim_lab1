@@ -1,7 +1,7 @@
-package com.oleg.prim_lab1
+package com.vitaliihusak.prim_lab1
 
 
-import com.oleg.{Edge, Graph}
+import com.vitaliihusak.{Edge, Graph}
 
 import scala.collection.mutable.ListBuffer
 
